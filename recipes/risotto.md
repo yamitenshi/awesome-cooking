@@ -32,7 +32,7 @@ That's it, you made risotto. From here, you can vary endlessly, but if you're la
 ### Basic variations
 - You can add a protein and a vegetable as desired. Diced chicken breast and green beans work well, just cook them in advance and add them when the last ladle of stock is almost absorbed
 - Instead of the garlic and onions, you can use a [soffritto](soffritto.md)
-- You can use red wine instead of white wine for bolder flavours (pairs well with beef stock, sausage meat as a filling, and topped with walnuts)
+- You can use red wine instead of white wine for bolder flavours (pairs well with beef stock, sausage meat and fennel as a filling, and topped with walnuts)
 
 
 ## Ridiculously good butternut squash risotto
